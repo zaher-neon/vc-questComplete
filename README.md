@@ -1,7 +1,7 @@
 
 # QuestComplete (Beta)
 
-**QuestComplete** is a Vencord plugin that adds a **“Spoof”** button to the **Quests tab** in Discord, allowing you to automatically complete quests without having to install or launch games or apps manually.
+**QuestComplete** is a Vencord plugin that adds a **“Spoof”** button to the **Quests tab** in Discord, allowing you to complete quests without having to install or launch games/apps manually.
 
 > ⚠️ This plugin is still **work in progress (WIP)**.
 > Use at your own risk — for **educational purposes only**.
@@ -57,3 +57,4 @@ Run the following commands in the **root directory** of your Vencord clone:
 pnpm build
 pnpm inject
 ```
+
