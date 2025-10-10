@@ -1,16 +1,63 @@
-# QuestComplete
 
-This plugin helps you complete quests that require running a program or game for 15 minutes.
+# QuestComplete (Beta)
 
-## Usage
+**QuestComplete** is a Vencord plugin that adds a **“Spoof”** button to the **Quests tab** in Discord, allowing you to automatically complete quests without having to install or launch games or apps manually.
 
-### Steps
-1. Navigate to the Quests tab.
-2. Select a quest requiring 15 minutes of program execution.
-3. If prompted, select 'Desktop' from the environment dropdown.
-4. Click the 'Spoof' button located in the header beside filter controls.
-5. Note: Single quest operation only. Complete current quest before initiating another.
+> ⚠️ This plugin is still **work in progress (WIP)**.
+> Use at your own risk — for **educational purposes only**.
 
-### Important Notes
-- Only one quest can be processed at a time.
-- Ensure quest completion before starting a new session.
+
+> Spoofing code adapted from [this gist](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) by [aamiaa](https://gist.github.com/aamiaa).
+
+
+## Requirements
+
+Before installing, make sure you have:
+
+* [Node.js](https://nodejs.org/) **v16 or higher**
+* [Git](https://git-scm.com/)
+* [pnpm](https://pnpm.io/) — install via: `npm install -g pnpm`
+
+## Installation Guide
+
+### 1. Clone Vencord
+
+```bash
+# Clone the Vencord repository
+git clone https://github.com/Vendicated/Vencord.git
+cd Vencord
+
+# Install dependencies
+pnpm install
+```
+
+### 2. Add the Plugin
+
+1. Inside the `src` folder, create a new folder structure:
+
+   ```
+   src/userplugins/questComplete/
+   ```
+
+2. Download or copy the plugin file
+   👉 [`index.tsx`](https://github.com/zaher-neon/vc-questComplete/blob/main/index.tsx)
+
+3. Place the file inside the `questComplete` folder:
+
+   ```
+   src/userplugins/questComplete/index.tsx
+   ```
+
+
+### 3. Build and Inject
+
+Run the following commands in the **root directory** of your Vencord clone:
+
+```bash
+pnpm build
+pnpm inject
+```
+
+## License
+
+This plugin is provided **as-is** for **educational purposes** only.
