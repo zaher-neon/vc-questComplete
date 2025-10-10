@@ -10,15 +10,16 @@
 > Spoofing code adapted from [this gist](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) by [aamiaa](https://gist.github.com/aamiaa).
 
 
-## Requirements
+
+## Installation Guide
+
+### Requirements
 
 Before installing, make sure you have:
 
 * [Node.js](https://nodejs.org/) **v16 or higher**
 * [Git](https://git-scm.com/)
 * [pnpm](https://pnpm.io/) — install via: `npm install -g pnpm`
-
-## Installation Guide
 
 ### 1. Clone Vencord
 
@@ -57,4 +58,5 @@ Run the following commands in the **root directory** of your Vencord clone:
 pnpm build
 pnpm inject
 ```
+
 
