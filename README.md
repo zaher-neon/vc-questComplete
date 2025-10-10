@@ -9,6 +9,9 @@
 
 > Spoofing code adapted from [this gist](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) by [aamiaa](https://gist.github.com/aamiaa).
 
+<blockquote style="color: red;">
+This text will appear red.
+</blockquote>
 
 
 ## Installation Guide
@@ -58,6 +61,7 @@ Run the following commands in the **root directory** of your Vencord clone:
 pnpm build
 pnpm inject
 ```
+
 
 
 
