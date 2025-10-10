@@ -57,7 +57,3 @@ Run the following commands in the **root directory** of your Vencord clone:
 pnpm build
 pnpm inject
 ```
-
-## License
-
-This plugin is provided **as-is** for **educational purposes** only.
