@@ -12,7 +12,8 @@
 
 
 ## Installation Guide
-👉 [Here](https://github.com/zaher-neon/vencord-userplugins)
+👉 [Jump Here](https://github.com/zaher-neon/vencord-userplugins)
+
 
 
 
