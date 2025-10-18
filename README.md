@@ -3,11 +3,6 @@
 
 **QuestComplete** is a Vencord plugin that adds a **“Spoof”** button to the **Quests tab** in Discord, allowing you to complete quests without having to install or launch games/apps manually, also complete video quests fatser before video ends.
 
-> [!Usage]
-> For Games/Apps quests, just run a quest then hit spoof
->
-> 
-
 > [!note]
 > If Quest asks to choose platform just choose `Desktop`
 > 
@@ -18,6 +13,7 @@
 
 ## Installation Guide
 👉 [Jump Here](https://github.com/zaher-neon/vencord-userplugins)
+
 
 
 
