@@ -7,12 +7,13 @@
 > [!note]
 > If Quest asks to choose platform just choose `Desktop`
 
-> [!CAUTION]
+> [!info]
 > Spoofing code adapted from [this gist](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) by [aamiaa](https://gist.github.com/aamiaa).
 
 
 ## Installation Guide
 👉 [Jump Here](https://github.com/zaher-neon/vencord-userplugins)
+
 
 
 
