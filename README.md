@@ -1,6 +1,5 @@
 
-# QuestComplete (Beta)
-⚠️ This plugin is still **work in progress (WIP)**.
+# QuestComplete
 
 **QuestComplete** is a Vencord plugin that adds a **“Spoof”** button to the **Quests tab** in Discord, allowing you to complete quests without having to install or launch games/apps manually, also complete video quests fatser before video ends.
 
@@ -13,6 +12,7 @@
 
 ## Installation Guide
 👉 [Jump Here](https://github.com/zaher-neon/vencord-userplugins)
+
 
 
 
